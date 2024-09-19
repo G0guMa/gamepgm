@@ -5,4 +5,4 @@
 
 
 ## 실행 결과
-#### [0912 실행결과 모음](https://github.com/G0guMa/gamepgm/blob/main/0912/readme.md)
+#### [09/12 실행결과](https://github.com/G0guMa/gamepgm/blob/main/0912/readme.md)
