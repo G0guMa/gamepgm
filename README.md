@@ -17,4 +17,4 @@
 #### [[11/14] 실행결과](https://github.com/G0guMa/gamepgm/blob/main/1114/readme.md)
 #### [[11/21] 실행결과](https://github.com/G0guMa/gamepgm/blob/main/1121/readme.md)
 #### [[11/28] 실행결과](https://github.com/G0guMa/gamepgm/blob/main/1128/readme.md)
-#### [[12/12] 실행결과](https://github.com/G0guMa/gamepgm/blob/main/1212)
+#### [[12/12] 발표 자료 모음](https://github.com/G0guMa/gamepgm/blob/main/1212)
