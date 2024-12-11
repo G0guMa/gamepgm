@@ -1,13 +1,12 @@
 # gamepgm
 #### 2021558007 김한준
-2024 2학기 게임프로그래밍 과제
+2024-2학기 게임프로그래밍 과제
 
 ## 사용한 프로그램들
 - DEV-C++
 - Visual Studio Code
 - Unity (version : 6000.0.24f1)
-- Unreal Engine (version : (5.5.0)
-
+- Unreal Engine (version : 5.5.0)
 
 ## 실행 결과
 #### [[09/12] 실행결과](https://github.com/G0guMa/gamepgm/blob/main/0912/readme.md)
