@@ -2,7 +2,7 @@
 #### 2021558007 김한준
 2024-2학기 게임프로그래밍 과제
 
-## 사용한 프로그램들
+## Program Used
 - DEV-C++
 - Visual Studio Code
 - Unity (version : 6000.0.24f1)
